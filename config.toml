@@ -13,7 +13,7 @@ title = "Bunny Insurance"
 [params.hero]
   img = "images/ins.jpg"
   title = "Protect __yourself__ and your __belongings__ from all kind of _misfortunes_"
-  description = "from _Bunny Insurance_ Contact Us __+91-8428-200-200__ for the best services"
+  description = "from _Bunny Insurance_ <br> Contact Us __+91-8428-200-200__"
 
 # Navigation section
 [params.nav]
