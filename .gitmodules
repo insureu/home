@@ -1,0 +1,3 @@
+[submodule "hugo-icon"]
+    path = themes/hugo-icon
+    url = https://github.com/insureu/hugo-icon.git
