@@ -12,8 +12,8 @@ title = "Bunny Insurance"
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/ins.jpg"
-  title = "Protect __yourself__ and your __belongings__ from all kind of _misfortunes_"
-  description = "from _Bunny Insurance_ <br> Contact Us __+91-8428-200-200__"
+  title = "__Bunny Insurance__ protects __you__ and your __belongings__ from all kind of _misfortunes_"
+  description = "Contact Us __+91-8428-200-200__"
 
 # Navigation section
 [params.nav]
@@ -32,11 +32,11 @@ title = "Bunny Insurance"
     enable = true
 
     [[params.mission.images.list]]
+      img = "images/img_2.jpg"
+    [[params.mission.images.list]]
+      img = "images/img_1.png"      
+    [[params.mission.images.list]]
       img = "images/img_3.jpg"
-    [[params.mission.images.list]]
-      img = "images/img_2.jpg"      
-    [[params.mission.images.list]]
-      img = "images/img_1.jpg"
     [[params.mission.images.list]]
       img = "images/img_4.jpg"
 
@@ -52,100 +52,100 @@ title = "Bunny Insurance"
     name = "Protect Yourself"
     title = "For You"
     subtitle = "You are the most valuable person in your life!"
-    description = "<p>You are a valuable asset for yourself and your family. So, protect yourself from all kind of misfortunes such as disease, accident, etc., We have wide rante of insurance policies to offer you</p><ul class='checked'><li>General Life Insurance</li><li>Health Insurance</li><li>Term Insurance</li></ul><p><!--a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch with Us</a-->Do write an email for your insurance quotes at <a href='mailto:sales@bunnyinsurance.com'>sales@bunnyinsurance.com</a> or <br> Call / WhatsApp us at +91-8428-200-200</p>"
+    description = "<p>You are a valuable asset for yourself and your family. So, protect yourself from all kind of misfortunes such as disease, accident, etc., We have wide range of insurance policies to offer you</p><ul class='checked'><li>General Life Insurance</li><li>Health Insurance</li><li>Term Insurance</li></ul><p><!--a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch with Us</a-->Do write an email for your insurance quotes at <a href='mailto:sales@bunnyinsurance.com'>sales@bunnyinsurance.com</a> or <br> Call / WhatsApp us at +91-8428-200-200</p>"
 
   [[params.mission.item]]
     weight = 3
     name = "Protect Your Belongings"
     title = "Things you care"
     subtitle = "Don't lose confidence, when your valuable belongings are lost"
-    description = "<p>Things always go good, when you do things such as driving, do business, keep your stuff safe.  Misfortunces happen, expect the worst and safeguard yourself from loses.  We offer some best plans to safeguard your belongings</p><ul class='checked'><li>Motor Insurance</li><li>Marine Insurance</li><li>Fire Insurance</li></ul><p><!--a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch with Us</a-->Do write an email for your insurance quotes at <a href='mailto:sales@bunnyinsurance.com'>sales@bunnyinsurance.com</a> or <br> Call / WhatsApp us at +91-8428-200-200</p>"
+    description = "<p>Things won't go good always, when you do things such as driving, do business, keep your stuff safe.  Misfortunces happen, expect the worst and safeguard yourself from loses.  We offer some best plans to safeguard your belongings</p><ul class='checked'><li>Motor Insurance</li><li>Marine Insurance</li><li>Fire Insurance</li></ul><p><!--a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch with Us</a-->Do write an email for your insurance quotes at <a href='mailto:sales@bunnyinsurance.com'>sales@bunnyinsurance.com</a> or <br> Call / WhatsApp us at +91-8428-200-200</p>"
 
 # Services section
 [params.services]
   enable = true
   video = false
   vidlink = "https://vimeo.com/channels/staffpicks/93951774"
-  title = "Our Services"
-  description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+  title = "Why are we the best in the industry?"
+  description = "Customer satisfaction is the key directly related to the compensation received by the advisors! Which means, our advisors provide strategic and objective recommendations to find the best insurance policy suited and further services, to exceed the expectations of the customers!"
 
   [[params.services.item]]
     icon = "icon-present"
-    title = "Web Development"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    title = "__Get an assured gift__"
+    description = "Get benefited for each transactions that you make; we offer discounts on premium, gifts, free services for our customer's loyalty"
 
   [[params.services.item]]
     icon = "icon-eye"
-    title = "Retina Ready"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    title = "__Professional Suggestion__"
+    description = "Get our professional's suggestion before investing, which helps you to save money and get maximum benefits"
 
   [[params.services.item]]
     icon = "icon-paper-plane"
-    title = "Light Speed"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
-
+    title = "__Fast Processing__"
+    description = "We avoid unnecessary delays and take your time seriously and make the process easy for you and finish it as fast as we can"
+    
   [[params.services.item]]
     icon = "icon-pencil"
-    title = "Copyrighting"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    title = "__Increasing Customer Base__"
+    description = "We serve more than 2000 individuals, families and businesses in Chennai, Tamil Nadu & India."
 
   [[params.services.item]]
     icon = "icon-rocket"
-    title = "Load Fast"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    title = "__Distance is not a matter__"
+    description = "No Matter how long you stay from us, we are always provide a great support on your insurance. We want to make this world a safer place by providing insurance for loved ones and things you care about."
 
   [[params.services.item]]
     icon = "icon-support"
-    title = "Customer Support"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    title = "__Customer Support__"
+    description = "Customers are our God, we serve them deligently. email us to <a href='mailto:sales@bunnyinsurance.com'>sales@bunnyinsurance.com</a> or call / whatsapp us at +91-8428-200-200"
 
 # Work section
 [params.work]
   enable = true
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
+    title = "Life Insurance"
+    # subtitle = "Web Design"
     img = "images/img_1.jpg"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
+    title = "Motor Insurance"
     subtitle = "Web Design"
     img = "images/img_2.jpg"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
+    title = "Health Insurance"
     subtitle = "Web Design"
     img = "images/img_3.jpg"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
+    title = "Marine Insurance"
     subtitle = "Web Design"
     img = "images/img_2.jpg"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
+    title = "Marine Insurance"
     subtitle = "Web Design"
     img = "images/img_3.jpg"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
+    title = "Home Insurance"
     subtitle = "Web Design"
     img = "images/img_2.jpg"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
+    title = "Travel Insurance"
     subtitle = "Web Design"
     img = "images/img_3.jpg"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
+    title = "Others"
     subtitle = "Web Design"
     img = "images/img_4.jpg"
 
 # Team section
 [params.team]
-  enable = true
+  enable = false
   title = "Meet The Team"
   description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
 
@@ -209,9 +209,9 @@ title = "Bunny Insurance"
 # Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
 [params.footer]
   enable = true
-  note = "<p><small>&copy; 2016 Free HTML5 Template. All Rights Reserved. <br> Designed by <a href='http://freehtml5.co/' target='_blank'>FreeHTML5.co</a> Demo Images: <a href='http://pexels.com/' target='_blank'>Pexels</a><br>Hugo port by <a href='https://github.com/SteveLane/' target='_blank'>SteveLane</a></small></p>"
-  github = "#"
-  twitter = "#"
+  note = "<p><small>&copy; 2018 Bunny Insurance. All Rights Reserved.</p>"
+  # github = "#"
+  twitter = "bunnyinsurance"
   facebook = "#"
   vine = "#"
   linkedin = "#"
